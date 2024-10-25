@@ -1,3 +1,2 @@
-yandex/clickhouse-server
 ubuntu:18.04
 centos:7
