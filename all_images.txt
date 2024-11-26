@@ -18,3 +18,4 @@ ubuntu:18.04
 centos:7
 minio:RELEASE.2023-03-20T20-16-18Z
 zilliz/attu:v2.2.6
+hello-world
