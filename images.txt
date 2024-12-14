@@ -1,1 +1,1 @@
-reids
+reids:6-alpine
