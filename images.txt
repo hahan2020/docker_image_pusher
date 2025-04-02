@@ -1,1 +1,2 @@
-reids:6-alpine
+xprobe/xinference:latest-cpu
+xprobe/xinference:latest
