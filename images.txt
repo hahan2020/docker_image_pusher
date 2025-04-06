@@ -1,1 +1,2 @@
-infiniflow/infinity:v0.6.0-dev3
+infiniflow/ragflow:v0.17.2
+infiniflow/ragflow:v0.17.2-slim
