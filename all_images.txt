@@ -44,3 +44,6 @@ langgenius/dify-api:0.15.5
 langgenius/dify-web:0.15.5
 valkey/valkey:8
 infiniflow/infinity:v0.6.0-dev3
+infiniflow/ragflow:v0.17.2
+infiniflow/ragflow:v0.17.2-slim
+docker.n8n.io/n8nio/n8n
