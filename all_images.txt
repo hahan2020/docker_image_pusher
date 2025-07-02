@@ -49,3 +49,6 @@ infiniflow/ragflow:v0.17.2-slim
 docker.n8n.io/n8nio/n8n
 langgenius/dify-api:1.4.1
 langgenius/dify-web:1.4.1
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.1-local
+vastdata/vastbase-vector
